@@ -1,5 +1,5 @@
 Archivos para utilizar en clase
 
-** En el subdirectorio del archivo `1_Introduccion_Python_paraClase.ipynb` han de encontrarse alojados:
+* `1_Introduccion_Python_paraClase.ipynb`: Requiere que en su mismo subdirectorio se encuentren alojados:
   * El archivo `funciones_varias.py`
   * La carpeta `figuras_Python1`
