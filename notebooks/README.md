@@ -1,1 +1,1 @@
-Archivos para ejecutarse en Jupyter Lab 
+Archivos para ser utilizados con Jupyter Lab 
