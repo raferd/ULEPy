@@ -1,3 +1,5 @@
 Archivos para utilizar en clase
 
-El archivo `funciones_varias.py` ha de guardarse en la misma carpeta que el archivo `1_Introduccion_Python_paraClase.ipynb`
+** En el subdirectorio del archivo `1_Introduccion_Python_paraClase.ipynb` han de encontrarse alojados:
+  * El archivo `funciones_varias.py`
+  * La carpeta `figuras_Python1`
